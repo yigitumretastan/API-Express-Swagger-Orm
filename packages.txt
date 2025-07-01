@@ -1,0 +1,15 @@
+express 
+cors 
+nodemon 
+jsonwebtoken 
+bcryptjs 
+mongoose 
+dotenv
+mongodb
+swagger-ui-express
+swagger-jsdoc --save
+
+
+
+
+npm install express cors nodemon jsonwebtoken bcryptjs mongoose dotenv mongodb swagger-ui-express swagger-jsdoc --save
